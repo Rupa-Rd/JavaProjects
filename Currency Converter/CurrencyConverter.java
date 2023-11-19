@@ -1,6 +1,8 @@
 // Author : Rupa-Rd
 // Project Name : Currency Converter
 // Project Description : This converts the amount from Dollar(USD) to Rupees(INR)
+// Date : 19-11-2023
+// ----------------------------------------------------------------------------------------------
 
 import java.util.Scanner;
 
