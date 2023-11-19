@@ -8,6 +8,7 @@
 // AUD - Australian Dollar
 // GBP - Great Britain Pound
 // Date : 19-11-2023
+// ----------------------------------------------------------------------------------------------
 
 import java.util.Scanner;
 
