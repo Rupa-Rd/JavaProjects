@@ -45,31 +45,31 @@ public class TicTacToe {
         /*
          * Cases when the game will get over!
          * Case 1: When all the rows are same
-         * X | X | X
+         *  X | X | X
          * ___ ___ ___
-         * | |
+         *    |   |
          * ___ ___ ___
-         * | |
+         *    |   |
          * 
          * Case 2 : When all the cols are same
-         * X | |
+         *  X |   |
          * ___ ___ ___
-         * X | |
+         *  X |   |
          * ___ ___ ___
-         * X | |
+         *  X |   |
          * 
          * Case 3 : When all the diagonal are same
-         * X | |
+         *  X |   |
          * ___ ___ ___
-         * | X |
+         *    | X |
          * ___ ___ ___
-         * | | X
-         * or
-         * | | X
+         *    |   | X
+         *     (or)
+         *    |   | X
          * ___ ___ ___
-         * | X |
+         *    | X |
          * ___ ___ ___
-         * X | |
+         *  X |   |
          */
 
         // Case 1
